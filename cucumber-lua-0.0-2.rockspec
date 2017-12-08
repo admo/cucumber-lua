@@ -1,7 +1,7 @@
 package = "Cucumber-Lua"
 version = "0.0-2"
 source = {
-  url = "https://github.com/admo/cucumber-lua/archive/lua53.zip"
+  url = "git://github.com/admo/cucumber-lua.git"
 }
 description = {
   summary = "A cucumber wire protocol implementation",
