@@ -15,11 +15,6 @@ description = {
   maintainer = "Josh Chisholm, Featurist <josh@featurist.co.uk>",
   license = "MIT"
 }
-dependencies = {
-  "lua >= 5.1",
-  "luasocket >= 2.0",
-  "luajson >= 1.3"
-}
 build = {
   type = "builtin",
   modules = {
